@@ -40,3 +40,12 @@ STAR format helps you organize the answers, most applicable to questions requiri
 
 `task`: Explain what you needed to achieve or the problems you had to solve, focusing on:
 `scope`; `severity`; `specific benchmarks/outcomes required`
+
+`Action`: Explain what you did to meet your objectives, options you had and how you made the decisions/
+
+`Result`: Describe the outcome of your actions and what you learned
+
+### Practice the most common behavioral questions
+
+[top 30 questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+[tips](https://www.techinterviewhandbook.org/behavioral-interview/)
